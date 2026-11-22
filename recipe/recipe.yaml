@@ -1,5 +1,5 @@
 context:
-  version: "0.1.4"
+  version: "0.2.0"
 
 package:
   name: bttf
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/BurntSushi/bttf/archive/refs/tags/${{ version }}.tar.gz
-  sha256: 21b265959403c02406137adac1012f676a25ad67d6fbf29a553b9e459c7bbc73
+  sha256: 5399df79e15ba48e94526319ec6baf4e4e9bbe983693adc4ba784294f0875e78
 
 build:
   number: 0
